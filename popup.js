@@ -105,8 +105,8 @@ btn.addEventListener('click', async () => {
           target: { tabId: tab.id },
           function: pickColor,
       },
-      async (injectionResults) => {
-          const [data] = injectionResults;
+      async (injectColor) => {
+          const [data] = injectColor;
           if (data.result) {
               const color = data.result.sRGBHex;
               colorGrid.style.backgroundColor = color;
