@@ -1,9 +1,9 @@
 # Combinations
 Its a chrome extensions 
 
- :one: Cookie delete :arrow_right: :white_check_mark:
+ :one: Cookie delete :heavy_minus_sign: :white_check_mark:
  
- :two: Set Alarm :arrow_right:  :no_entry_sign:
+ :two: Set Alarm :heavy_minus_sign:  :no_entry_sign:
  
- :three: Color picker :arrow_right:  :white_check_mark:
+ :three: Color picker :heavy_minus_sign:  :white_check_mark:
  
